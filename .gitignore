@@ -1,0 +1,4 @@
+.env
+pafo
+creds/
+__pycache__/

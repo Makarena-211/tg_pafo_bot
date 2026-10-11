@@ -1,0 +1,9 @@
+aiogram==3.31.0
+google-api-core==2.42.0
+google-api-python-client==2.201.0
+google-auth==2.61.0
+google-auth-httplib2==0.4.4
+google-auth-oauthlib==1.5.0
+googleapis-common-protos==1.75.5
+caldav==3.4.0
+dotenv==0.9.9
